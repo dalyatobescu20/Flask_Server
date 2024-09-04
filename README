@@ -1,0 +1,58 @@
+//Tobescu Dalya-Alexndra//
+//grupa 331 CB//
+
+//TEMA 1 ASC//
+
+
+1. Clasa ThreadPool definita in task_runner.py
+    --> Am initializat un ThreadPool cu un numar de threaduri dat de numarul
+    de core-uri ale procesorului.
+    --> Am initializat un dictionar in care am retinut task-urile si id-ul lor.
+    --> Am definit o coada de taskuri in care am pus task-urile si id-ul lor.
+    --> Am definit un semafor pentru a putea fi executate task-urile.
+    --> Am definit un thread care va executa task-urile.
+
+   Functia add_task:
+    --> Am adaugat task-urile in coada de taskuri.
+    --> Am adaugat task-urile in dictionarul de task-uri.
+    --> Am dat release la semafor pentru a putea fi executate task-urile.
+
+    Functia graceful_shutdown:
+    --> Am dat release la semafor pentru a putea fi executate task-urile.
+    --> Am asteptat ca toate task-urile sa fie terminate.
+    --> Am oprit thread-ul.
+
+    Functia job_id_is_valid:
+    --> Am verificat daca id-ul task-ului este valid, adica daca se afla in
+     dictionarul de task-uri.
+
+    Functia get_task:
+    --> Am returnat task-ul cu id-ul dat.
+
+
+2. Clasa Task definita in task_runner.py
+    --> Am initializat un task care are un id, status, functie, intrebare si stat.
+    Functia do_task:
+    --> Am apelat functia data ca parametru corespunzatoare unui request.
+
+3. Clasa TaskRunner definita in task_runner.py
+    --> Am initializat un TaskRunner cu semafor, coada de taskuri, shutdown_event si
+    un dictionar pentru care am facut functii de set.
+
+    Functia run:
+    --> extrage un task din coada de taskuri si il executa si apoi scrie rezultatul
+    in fisierul de output.
+
+
+4. Clasa DataIngestor
+    --> am initializat cate o clasa pentru fiecare tip de request si am returnat
+    rezultatul fiecarui algoritm.
+
+5. Fisierul routes:
+    --> pentru fiecare tip de request am facut urmatorii pasi:
+        --> am extras datele din request
+        --> am creat un job_id si apoi l-am incrementat
+        --> am creat un task cu datele extrase(question/state), job_id si
+        functia corespunzatoare unui requst
+        --> am adaugat task ul in coada de taskuri
+        --> am returnat job_id ul

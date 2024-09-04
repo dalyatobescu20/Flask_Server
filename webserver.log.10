@@ -1,0 +1,107 @@
+2024-04-10 13:33:47 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-10 13:33:47 - INFO - JobID is job_id102
+2024-04-10 13:33:48 - INFO - JobID is job_id102
+2024-04-10 13:33:48 - INFO - Got request {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-10 13:33:48 - INFO - JobID is job_id103
+2024-04-10 13:33:48 - INFO - JobID is job_id103
+2024-04-10 13:33:48 - INFO - Got request {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:33:48 - INFO - JobID is job_id104
+2024-04-10 13:33:48 - INFO - JobID is job_id104
+2024-04-10 13:33:48 - INFO - Got request {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-10 13:33:48 - INFO - JobID is job_id105
+2024-04-10 13:33:48 - INFO - JobID is job_id105
+2024-04-10 13:33:48 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:33:48 - INFO - JobID is job_id106
+2024-04-10 13:33:49 - INFO - JobID is job_id106
+2024-04-10 13:33:49 - INFO - Got request {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-10 13:33:49 - INFO - JobID is job_id107
+2024-04-10 13:33:49 - INFO - JobID is job_id107
+2024-04-10 13:33:49 - INFO - Got request {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-10 13:33:49 - INFO - JobID is job_id108
+2024-04-10 13:33:49 - INFO - JobID is job_id108
+2024-04-10 13:33:49 - INFO - Got request {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-10 13:33:49 - INFO - JobID is job_id109
+2024-04-10 13:33:49 - INFO - JobID is job_id109
+2024-04-10 13:33:49 - INFO - Got request {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-10 13:33:49 - INFO - JobID is job_id110
+2024-04-10 13:33:49 - INFO - JobID is job_id110
+2024-04-10 13:33:49 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-10 13:33:49 - INFO - JobID is job_id111
+2024-04-10 13:33:50 - INFO - JobID is job_id111
+2024-04-10 13:33:50 - INFO - Got request {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-10 13:33:50 - INFO - JobID is job_id112
+2024-04-10 13:33:50 - INFO - JobID is job_id112
+2024-04-10 13:33:50 - INFO - Got request {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:33:50 - INFO - JobID is job_id113
+2024-04-10 13:33:50 - INFO - JobID is job_id113
+2024-04-10 13:33:50 - INFO - Got request {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-10 13:33:50 - INFO - JobID is job_id114
+2024-04-10 13:33:50 - INFO - JobID is job_id114
+2024-04-10 13:34:09 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:34:09 - INFO - JobID is job_id115
+2024-04-10 13:34:09 - INFO - JobID is job_id115
+2024-04-10 13:34:09 - INFO - Got request {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-10 13:34:09 - INFO - JobID is job_id116
+2024-04-10 13:34:09 - INFO - JobID is job_id116
+2024-04-10 13:34:09 - INFO - Got request {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-10 13:34:09 - INFO - JobID is job_id117
+2024-04-10 13:34:09 - INFO - JobID is job_id117
+2024-04-10 13:34:09 - INFO - Got request {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-10 13:34:09 - INFO - JobID is job_id118
+2024-04-10 13:34:10 - INFO - JobID is job_id118
+2024-04-10 13:34:10 - INFO - Got request {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-10 13:34:10 - INFO - JobID is job_id119
+2024-04-10 13:34:10 - INFO - JobID is job_id119
+2024-04-10 13:34:10 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-10 13:34:10 - INFO - JobID is job_id120
+2024-04-10 13:34:10 - INFO - JobID is job_id120
+2024-04-10 13:34:10 - INFO - Got request {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-10 13:34:10 - INFO - JobID is job_id121
+2024-04-10 13:34:10 - INFO - JobID is job_id121
+2024-04-10 13:34:10 - INFO - Got request {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:34:10 - INFO - JobID is job_id122
+2024-04-10 13:34:10 - INFO - JobID is job_id122
+2024-04-10 13:34:10 - INFO - Got request {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-10 13:34:10 - INFO - JobID is job_id123
+2024-04-10 13:34:11 - INFO - JobID is job_id123
+2024-04-10 13:34:11 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:34:11 - INFO - JobID is job_id124
+2024-04-10 13:34:11 - INFO - JobID is job_id124
+2024-04-10 13:34:11 - INFO - Got request {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-10 13:34:11 - INFO - JobID is job_id125
+2024-04-10 13:34:11 - INFO - JobID is job_id125
+2024-04-10 13:34:11 - INFO - Got request {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-10 13:34:11 - INFO - JobID is job_id126
+2024-04-10 13:34:11 - INFO - JobID is job_id126
+2024-04-10 13:34:11 - INFO - Got request {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-10 13:34:11 - INFO - JobID is job_id127
+2024-04-10 13:34:17 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:34:17 - INFO - JobID is job_id1
+2024-04-10 13:34:17 - INFO - JobID is job_id1
+2024-04-10 13:34:17 - INFO - Got request {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-10 13:34:17 - INFO - JobID is job_id2
+2024-04-10 13:34:17 - INFO - JobID is job_id2
+2024-04-10 13:34:17 - INFO - Got request {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-10 13:34:17 - INFO - JobID is job_id3
+2024-04-10 13:34:17 - INFO - JobID is job_id3
+2024-04-10 13:34:17 - INFO - Got request {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-10 13:34:17 - INFO - JobID is job_id4
+2024-04-10 13:34:18 - INFO - JobID is job_id4
+2024-04-10 13:34:18 - INFO - Got request {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-10 13:34:18 - INFO - JobID is job_id5
+2024-04-10 13:34:18 - INFO - JobID is job_id5
+2024-04-10 13:34:18 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-10 13:34:18 - INFO - JobID is job_id6
+2024-04-10 13:34:18 - INFO - JobID is job_id6
+2024-04-10 13:34:18 - INFO - Got request {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-10 13:34:18 - INFO - JobID is job_id7
+2024-04-10 13:34:18 - INFO - JobID is job_id7
+2024-04-10 13:34:18 - INFO - Got request {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:34:18 - INFO - JobID is job_id8
+2024-04-10 13:34:18 - INFO - JobID is job_id8
+2024-04-10 13:34:18 - INFO - Got request {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-10 13:34:18 - INFO - JobID is job_id9
+2024-04-10 13:34:19 - INFO - JobID is job_id9
+2024-04-10 13:34:19 - INFO - Got request {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-10 13:34:19 - INFO - JobID is job_id10
+2024-04-10 13:34:19 - INFO - JobID is job_id10
