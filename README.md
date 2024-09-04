@@ -21,8 +21,6 @@ This project is a **multi-threaded server** developed in **Python** using the **
   - [Get Job Results](#apiget_resultsjob_id)
 - [Installation and Execution](#installation-and-execution)
 - [Testing](#testing)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Objective
 
